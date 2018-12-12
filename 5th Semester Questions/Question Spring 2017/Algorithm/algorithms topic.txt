@@ -1,0 +1,17 @@
+1.linear search
+2.binary search
+2.insert sort
+4.quick sort
+5.marg sort
+6.0/1 knapshak
+7.parshial knapshak
+8.coin chainge
+9.longest commont subsicunce(LCS)
+10.bfs
+11.dfs
+12.diajsta algorithm
+13.belmen fort
+14.topology sort
+15.kuskal algorithm
+16.primce algorithm
+17.minimum spaning tree
