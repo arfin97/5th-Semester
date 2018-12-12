@@ -25,4 +25,9 @@ My Video Tutorials:
 Follow the class and practice hard. Time management will be a key stone here.
 
 _give this repo a star if it helps :)_
+If you have some better resources please contribute.
+You can contribute through github or Just give me a mail to arfin97@gmail.com
+
+### Credits
+
 
