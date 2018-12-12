@@ -2,6 +2,7 @@
 Resources I used during my 5th semester term. 
 
 
+
 # External Resources: 
 
 ## Algorithm
@@ -22,4 +23,6 @@ My Video Tutorials:
 ## Statistics
 
 Follow the class and practice hard. Time management will be a key stone here.
+
+_give this repo a star if it helps :)_
 
