@@ -15,7 +15,7 @@ My Video Tutorials:
 
 ## Electorics Device and Circuit: 
 
-[ Sohag Viaya's Lecture on Semiconductors ] (One of the awesomest teachers on planet earth):](https://www.youtube.com/watch?v=PcWMyktzwvg&list=PLxSt9YDBipm6B2e0qlu_2mEvTu-7NuTCb)
+[ Sohag Viaya's Lecture on Semiconductors ](One of the awesomest teachers on planet earth):](https://www.youtube.com/watch?v=PcWMyktzwvg&list=PLxSt9YDBipm6B2e0qlu_2mEvTu-7NuTCb)
 
 [ How Does a Transistor Work? (Veritasium): ](https://www.youtube.com/watch?v=IcrBqCFLHIY)
 
